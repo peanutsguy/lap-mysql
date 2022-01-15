@@ -1,4 +1,4 @@
-# LASP Server | Ubuntu + Apache2 + PHP + MYSQL PHP Driver
+# LAP-MYSQL Server | Ubuntu + Apache2 + PHP + MYSQL PHP Driver
 
 # Usage
 ```docker
