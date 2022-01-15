@@ -3,7 +3,7 @@ name: Docker Image CI
 on:
   push:
     branches:
-    - master
+    - php7.3
 
 jobs:
   Build-and-push:
